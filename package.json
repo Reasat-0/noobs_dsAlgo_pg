@@ -8,5 +8,21 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reasat-0/noobs_dsAlgo_pg.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Reasat-0/noobs_dsAlgo_pg/issues"
+  },
+  "homepage": "https://github.com/Reasat-0/noobs_dsAlgo_pg#readme",
+  "dependencies": {
+    "@types/node": "^25.6.0",
+    "ts-node": "^10.9.2"
   }
 }
